@@ -3,5 +3,5 @@ package logic
 import "fmt"
 
 func Hello(name string) string {
-	return fmt.Sprintf("Hello! %s san!", name)
+	return fmt.Sprintf("Hello! %s san! Yo!", name)
 }
